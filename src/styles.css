@@ -1,0 +1,15 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --black-with-alpha: rgba(0, 0, 0, 0.3);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
